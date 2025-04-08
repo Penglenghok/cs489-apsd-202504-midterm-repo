@@ -2,7 +2,7 @@ public class AppointmentBookingService {
 
 public void createNewAppointment() {
 
-System.out.println("Hello, New Appointment created!");
+System.out.println("Hello, New Appointment created! enjoy your day!");
 
 }
 
